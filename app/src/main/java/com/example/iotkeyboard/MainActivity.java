@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                     Intent intent = new Intent(v.getContext(), TypingTest.class);
                     startActivity(intent);
+                    //hello
+
                 }
             });
 
